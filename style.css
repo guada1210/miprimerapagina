@@ -53,12 +53,19 @@ h1{
 
   }
   .descarga.jpg{
-    width: 25%;
     height: 25%;
+    width: 25%;
+    align-self: flex-start;
   }
   .noche-en-las-montanas-con-planetas-de-fondo_1220x2160_xtrafondos.com.jpg{
-    width: 25%;
+    align-self: center;
     height: 25%;
+    width: 25%;
+  }
+  .photo-1530908295418-a12e326966ba.jpg{
+    align-self: flex-end;
+    height: 25%;
+    width: 25%;
   }
   @media (max-width: 600px) {
     .column {
